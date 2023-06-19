@@ -31,9 +31,9 @@ app.secret_key = 'SECRET_KEY'
 
 client = datastore.Client()
 
-CLIENT_ID = 'v8ZjjSNJiBmAtEdhxuhdZKzgfs98vv4t'
-CLIENT_SECRET = '9yTCDQ9do_mCER3Zfgh8o-CPXEkiLWnXu4xFdv3Ar8ebb3LXgapxbqW2QUDyZkjI'
-DOMAIN = 'cs493-portfolio-1.us.auth0.com'
+CLIENT_ID = # replace with your client ID
+CLIENT_SECRET = # replace with your client secret
+DOMAIN = # replace with your auth0 domain
 
 ALGORITHMS = ["RS256"]
 
